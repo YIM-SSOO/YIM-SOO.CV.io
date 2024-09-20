@@ -27,9 +27,6 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"> 
 	<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"> 
-	<img src=https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor="#FF61F6">
-	<img src=https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor="white">
-
 </p>
 
 <h3 align="center">Contact Me✨</h3>
